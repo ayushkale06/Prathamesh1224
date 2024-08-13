@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+int main() {
+string firstname, middlename, lastname;
+cout<<"enter firstname";
+cin>>firstname;
+cout<<"enter middlename";
+cin>>middlename;
+cout<<"enter lastname";
+cin>>lastname;
+cout<<"firstname"<<firstname;
+cout<<"middlename"<<middlename;
+cout<<"lastname"<<lastname;
+return 0;
+}
